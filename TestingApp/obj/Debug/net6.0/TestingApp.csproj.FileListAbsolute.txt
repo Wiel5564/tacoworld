@@ -1,0 +1,15 @@
+C:\Users\levie\Source\Repos\TestingApp\TestingApp\bin\Debug\net6.0\TestingApp.exe
+C:\Users\levie\Source\Repos\TestingApp\TestingApp\bin\Debug\net6.0\TestingApp.deps.json
+C:\Users\levie\Source\Repos\TestingApp\TestingApp\bin\Debug\net6.0\TestingApp.runtimeconfig.json
+C:\Users\levie\Source\Repos\TestingApp\TestingApp\bin\Debug\net6.0\TestingApp.dll
+C:\Users\levie\Source\Repos\TestingApp\TestingApp\bin\Debug\net6.0\TestingApp.pdb
+C:\Users\levie\Source\Repos\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.csproj.AssemblyReference.cache
+C:\Users\levie\Source\Repos\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levie\Source\Repos\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.AssemblyInfoInputs.cache
+C:\Users\levie\Source\Repos\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.AssemblyInfo.cs
+C:\Users\levie\Source\Repos\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.csproj.CoreCompileInputs.cache
+C:\Users\levie\Source\Repos\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.dll
+C:\Users\levie\Source\Repos\TestingApp\TestingApp\obj\Debug\net6.0\refint\TestingApp.dll
+C:\Users\levie\Source\Repos\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.pdb
+C:\Users\levie\Source\Repos\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.genruntimeconfig.cache
+C:\Users\levie\Source\Repos\TestingApp\TestingApp\obj\Debug\net6.0\ref\TestingApp.dll
