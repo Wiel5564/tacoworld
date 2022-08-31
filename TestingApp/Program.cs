@@ -7,6 +7,7 @@ Console.WriteLine("How many tacos do you need?");
 string input = Console.ReadLine(); // klass Console, metod ReadLine(), en sats slutar med ;
 
 int heltal = int.Parse(input); // converts into int, strings can't cast as (int)
+// Console.WriteLine($"int : {int.MinValue} to {int.MaxValue}");
 // float och double är decimal, vat implicit typifierar
 
 bool moreTacosBeingBetter = true;
